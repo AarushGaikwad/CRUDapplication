@@ -115,5 +115,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Support
 
-For any issues or queries, please contact \[Your Contact Information].
+For any issues or queries, please contact +91 9156832992
 
