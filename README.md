@@ -115,5 +115,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Support
 
-For any issues or queries, please contact +91 9156832992
+For any issues or queries, please contact +91 9156832992 
+                                          aarushgaikwad789@gmail.com
 
